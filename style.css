@@ -1,0 +1,33 @@
+.bg-orange {
+    background-color: orange;
+}
+
+.logo{
+    width: 100px;
+    
+}
+
+.display-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+.bg-black {
+    background-color: black;
+}
+
+.footer{
+    display:flex;
+    justify-items: flex-end;
+}
+.sito-privacy{
+    color: white;
+    display:flex;
+    align-items: center;
+    
+}
