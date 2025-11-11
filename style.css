@@ -19,15 +19,13 @@
 }
 .bg-black {
     background-color: black;
+
 }
 
-.footer{
-    display:flex;
-    justify-items: flex-end;
-}
-.sito-privacy{
+
+.color-text{
     color: white;
-    display:flex;
-    align-items: center;
+
     
 }
+
